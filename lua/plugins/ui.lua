@@ -3,16 +3,17 @@
 return {
 
   -- colorschemes
+  { "NLKNguyen/papercolor-theme" },
+  { "catppuccin/nvim" },
+  { "cocopon/iceberg.vim" },
+  { "jacoborus/tender.vim" },
   { "joshdick/onedark.vim" },
   { "marko-cerovac/material.nvim" },
+  { "metalelf0/jellybeans-nvim" },
   { "rebelot/kanagawa.nvim" },
+  { "romainl/Apprentice" },
   { "shaunsingh/nord.nvim" },
   { "tomasr/molokai" },
-  { "catppuccin/nvim" },
-  { "NLKNguyen/papercolor-theme" },
-  { "jacoborus/tender.vim" },
-  { "cocopon/iceberg.vim" },
-  { "romainl/Apprentice" },
   {
     "LazyVim/LazyVim",
     opts = {
